@@ -83,7 +83,6 @@ https://pub.dev/packages/tinycolor
 
 https://pub.dev/packages/flutter_colorize
 
-## Color Picker
 https://pub.dev/packages/flutter_material_color_picker
 
 https://pub.dev/packages/flutter_circle_color_picker
