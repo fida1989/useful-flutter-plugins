@@ -153,7 +153,20 @@ https://pub.dev/packages/numeric_keyboard
 
 https://pub.dev/packages/flutter_emoji_keyboard
 
+## Bottom Navigation Bar
+https://pub.dev/packages/bottom_navy_bar
 
+https://pub.dev/packages/curved_navigation_bar
+
+https://pub.dev/packages/persistent_bottom_nav_bar
+
+https://pub.dev/packages/google_nav_bar
+
+https://pub.dev/packages/fluid_bottom_nav_bar
+
+https://pub.dev/packages/rolling_nav_bar
+
+https://pub.dev/packages/convex_bottom_bar
 
 
 ## More...
