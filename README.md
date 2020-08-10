@@ -76,6 +76,32 @@ https://pub.dev/packages/rflutter_alert
 
 https://pub.dev/packages/flutter_awesome_alert_box
 
+## Color
+https://pub.dev/packages/pigment
+
+https://pub.dev/packages/tinycolor
+
+https://pub.dev/packages/flutter_colorize
+
+## Color Picker
+https://pub.dev/packages/flutter_material_color_picker
+
+https://pub.dev/packages/flutter_circle_color_picker
+
+## Progress
+https://pub.dev/packages/progress_dialog
+
+https://pub.dev/packages/custom_progress_dialog
+
+https://pub.dev/packages/native_progress_hud
+
+https://pub.dev/packages/liquid_progress_indicator
+
+https://pub.dev/packages/progress_indicators
+
+https://pub.dev/packages/loading_indicator
+
+
 ## More...
 
 
