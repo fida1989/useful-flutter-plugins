@@ -53,6 +53,15 @@ https://pub.dev/packages/flutter_bloc
 
 https://pub.dev/packages/flutter_mobx
 
+## Navigation
+https://pub.dev/packages/get
+
+https://pub.dev/packages/fluro
+
+https://pub.dev/packages/no_context_navigation
+
+https://pub.dev/packages/page_transition
+
 ## More...
 
 
