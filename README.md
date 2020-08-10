@@ -49,7 +49,7 @@ https://pub.dev/packages/background_location
 
 https://pub.dev/packages/geolocator
 
-## State Management/Pattern
+## State Management / Pattern
 https://pub.dev/packages/provider
 
 https://pub.dev/packages/flutter_bloc
