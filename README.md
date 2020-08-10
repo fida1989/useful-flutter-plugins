@@ -17,11 +17,17 @@ https://pub.dev/packages/flutter_offline
 
 
 ## Image
+https://pub.dev/packages/extended_image
+
 https://pub.dev/packages/cached_network_image
 
 https://pub.dev/packages/network_to_file_image
 
 https://pub.dev/packages/flutter_image_compress
+
+https://pub.dev/packages/photo_view
+
+https://pub.dev/packages/image_cropper
 
 https://pub.dev/packages/image_picker
 
