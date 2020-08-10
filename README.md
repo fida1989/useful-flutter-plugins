@@ -1,5 +1,6 @@
 # :heart: Useful Flutter Plugins :heart:
 A curated list of useful Flutter plugins. :smiley:
+Plugin list is updated regularly. :blush:
 
 ## Network
 https://pub.dev/packages/http
