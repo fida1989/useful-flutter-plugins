@@ -1,5 +1,5 @@
-# Useful Flutter Plugins
-This repository is an index of useful Flutter plugins have that I found and used.
+# :heart: Useful Flutter Plugins :heart:
+A curated list of useful Flutter plugins. :smiley:
 
 ## Network
 https://pub.dev/packages/http
