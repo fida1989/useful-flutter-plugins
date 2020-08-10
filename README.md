@@ -26,6 +26,8 @@ https://pub.dev/packages/image_picker
 
 https://pub.dev/packages/multi_image_picker
 
+https://pub.dev/packages/circular_profile_avatar
+
 ## Persistence
 https://pub.dev/packages/shared_preferences
 
@@ -61,6 +63,18 @@ https://pub.dev/packages/fluro
 https://pub.dev/packages/no_context_navigation
 
 https://pub.dev/packages/page_transition
+
+## Toast
+https://pub.dev/packages/oktoast
+
+https://pub.dev/packages/fluttertoast
+
+https://pub.dev/packages/flutter_styled_toast
+
+## Dialog
+https://pub.dev/packages/rflutter_alert
+
+https://pub.dev/packages/flutter_awesome_alert_box
 
 ## More...
 
