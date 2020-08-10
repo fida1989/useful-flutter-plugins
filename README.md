@@ -49,7 +49,7 @@ https://pub.dev/packages/background_location
 
 https://pub.dev/packages/geolocator
 
-## State Management / Pattern
+## State Management / Pattern / Framework
 https://pub.dev/packages/provider
 
 https://pub.dev/packages/flutter_bloc
@@ -94,17 +94,19 @@ https://pub.dev/packages/tinycolor
 
 https://pub.dev/packages/flutter_colorize
 
+## Color Picker
 https://pub.dev/packages/flutter_material_color_picker
 
 https://pub.dev/packages/flutter_circle_color_picker
 
-## Progress
+## Progress Dialog
 https://pub.dev/packages/progress_dialog
 
 https://pub.dev/packages/custom_progress_dialog
 
 https://pub.dev/packages/native_progress_hud
 
+## Progress Indicator
 https://pub.dev/packages/liquid_progress_indicator
 
 https://pub.dev/packages/progress_indicators
