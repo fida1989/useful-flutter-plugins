@@ -56,6 +56,10 @@ https://pub.dev/packages/flutter_bloc
 
 https://pub.dev/packages/flutter_mobx
 
+https://pub.dev/packages/stacked
+
+https://pub.dev/packages/flutter_redux
+
 ## Navigation
 https://pub.dev/packages/get
 
@@ -100,6 +104,33 @@ https://pub.dev/packages/liquid_progress_indicator
 https://pub.dev/packages/progress_indicators
 
 https://pub.dev/packages/loading_indicator
+
+## Intent Launcher
+https://pub.dev/packages/url_launcher
+
+https://pub.dev/packages/map_launcher
+
+https://pub.dev/packages/maps_launcher
+
+https://pub.dev/packages/email_launcher
+
+https://pub.dev/packages/flutter_open_whatsapp
+
+## Share
+https://pub.dev/packages/share
+
+https://pub.dev/packages/social_share
+
+https://pub.dev/packages/social_share_plugin
+
+## Store Page Open
+https://pub.dev/packages/open_appstore
+
+https://pub.dev/packages/launch_review
+
+https://pub.dev/packages/store_redirect
+
+
 
 
 ## More...
