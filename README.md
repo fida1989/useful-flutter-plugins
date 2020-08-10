@@ -138,6 +138,21 @@ https://pub.dev/packages/launch_review
 
 https://pub.dev/packages/store_redirect
 
+## Keyboard
+https://pub.dev/packages/keyboard_manager
+
+https://pub.dev/packages/keyboard_actions
+
+https://pub.dev/packages/keyboard_dismisser
+
+https://pub.dev/packages/flutter_keyboard_visibility
+
+https://pub.dev/packages/keyboard_utils
+
+https://pub.dev/packages/numeric_keyboard
+
+https://pub.dev/packages/flutter_emoji_keyboard
+
 
 
 
