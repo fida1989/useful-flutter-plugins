@@ -49,7 +49,7 @@ https://pub.dev/packages/background_location
 
 https://pub.dev/packages/geolocator
 
-## State Management
+## State Management/Pattern
 https://pub.dev/packages/provider
 
 https://pub.dev/packages/flutter_bloc
@@ -59,6 +59,12 @@ https://pub.dev/packages/flutter_mobx
 https://pub.dev/packages/stacked
 
 https://pub.dev/packages/flutter_redux
+
+https://pub.dev/packages/get
+
+https://pub.dev/packages/mvvm_builder
+
+https://pub.dev/packages/mvc_application
 
 ## Navigation
 https://pub.dev/packages/get
