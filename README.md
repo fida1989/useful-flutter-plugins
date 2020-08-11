@@ -176,6 +176,15 @@ https://pub.dev/packages/rolling_nav_bar
 
 https://pub.dev/packages/convex_bottom_bar
 
+## WebSocket
+https://pub.dev/packages/web_socket_channel
+
+https://pub.dev/packages/websocket_manager
+
+https://pub.dev/packages/socket_io_client
+
+https://pub.dev/packages/signalr_core
+
 
 ## More...
 
