@@ -58,6 +58,8 @@ https://pub.dev/packages/geolocator
 ## State Management / Pattern / Framework
 https://pub.dev/packages/provider
 
+https://pub.dev/packages/scoped_model
+
 https://pub.dev/packages/flutter_bloc
 
 https://pub.dev/packages/flutter_mobx
