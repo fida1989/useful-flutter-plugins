@@ -2,6 +2,31 @@
 A curated list of useful Flutter plugins. :smiley:
 Plugin list is updated regularly. :blush:
 
+
+## Firebase
+https://pub.dev/packages/firebase_auth
+
+https://pub.dev/packages/firebase_analytics
+
+https://pub.dev/packages/cloud_firestore
+
+https://pub.dev/packages/firebase_messaging
+
+https://pub.dev/packages/firebase_storage
+
+https://pub.dev/packages/firebase_crashlytics
+
+https://pub.dev/packages/firebase_admob
+
+https://pub.dev/packages/firebase_database
+
+https://pub.dev/packages/firebase_dynamic_links
+
+https://pub.dev/packages/firebase_remote_config
+
+https://pub.dev/packages/firebase_ml_vision
+
+
 ## Network
 https://pub.dev/packages/http
 
