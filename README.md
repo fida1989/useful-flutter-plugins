@@ -4,27 +4,7 @@ Plugin list is updated regularly. :blush:
 
 
 ## Firebase
-https://pub.dev/packages/firebase_auth
-
-https://pub.dev/packages/firebase_analytics
-
-https://pub.dev/packages/cloud_firestore
-
-https://pub.dev/packages/firebase_messaging
-
-https://pub.dev/packages/firebase_storage
-
-https://pub.dev/packages/firebase_crashlytics
-
-https://pub.dev/packages/firebase_admob
-
-https://pub.dev/packages/firebase_database
-
-https://pub.dev/packages/firebase_dynamic_links
-
-https://pub.dev/packages/firebase_remote_config
-
-https://pub.dev/packages/firebase_ml_vision
+https://firebase.flutter.dev
 
 ## Social Login
 https://pub.dev/packages/google_sign_in
@@ -32,7 +12,6 @@ https://pub.dev/packages/google_sign_in
 https://pub.dev/packages/sign_in_with_apple
 
 https://pub.dev/packages/flutter_login_facebook
-
 
 ## Network
 https://pub.dev/packages/http
@@ -46,7 +25,6 @@ https://pub.dev/packages/global_network
 https://pub.dev/packages/connectivity
 
 https://pub.dev/packages/flutter_offline
-
 
 ## Image
 https://pub.dev/packages/extended_image
@@ -86,6 +64,8 @@ https://pub.dev/packages/location
 https://pub.dev/packages/background_location
 
 https://pub.dev/packages/geolocator
+
+https://pub.dev/packages/use_location
 
 ## State Management / Pattern / Framework
 https://pub.dev/packages/provider
