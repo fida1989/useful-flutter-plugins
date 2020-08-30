@@ -206,7 +206,12 @@ https://pub.dev/packages/conditional_builder
 
 https://pub.dev/packages/flutter_conditional_rendering
 
+## Localization
+https://pub.dev/packages/flutter_translate
 
+https://pub.dev/packages/easy_localization
+
+https://pub.dev/packages/ez_localization
 
 ## More...
 
