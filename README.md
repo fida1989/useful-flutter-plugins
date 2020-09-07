@@ -227,6 +227,11 @@ https://pub.dev/packages/enhanced_future_builder
 ## Radio
 https://pub.dev/packages/fradio
 
+## Lifecycle / Visibility
+https://pub.dev/packages/flutterlifecyclehooks
+
+https://pub.dev/packages/visibility_detector
+
 ## More...
 
 
