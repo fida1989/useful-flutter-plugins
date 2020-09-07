@@ -232,6 +232,9 @@ https://pub.dev/packages/flutterlifecyclehooks
 
 https://pub.dev/packages/visibility_detector
 
+## Assets
+https://github.com/FlutterGen/flutter_gen
+
 ## More...
 
 
