@@ -139,6 +139,8 @@ https://pub.dev/packages/progress_indicators
 
 https://pub.dev/packages/loading_indicator
 
+https://github.com/cytryn/loading-animations
+
 ## Intent Launcher
 https://pub.dev/packages/url_launcher
 
@@ -234,6 +236,16 @@ https://pub.dev/packages/visibility_detector
 
 ## Assets
 https://github.com/FlutterGen/flutter_gen
+
+## Lottie
+https://pub.dev/packages/lottie
+
+## Event
+https://pub.dev/packages/event_bus
+
+https://pub.dev/packages/event
+
+https://pub.dev/packages/eventify
 
 ## More...
 
