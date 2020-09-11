@@ -247,6 +247,15 @@ https://pub.dev/packages/event
 
 https://pub.dev/packages/eventify
 
+## Flavor
+https://pub.dev/packages/flavor
+
+https://pub.dev/packages/flutter_flavor
+
+https://github.com/AngeloAvv/flutter_flavorizr
+
+https://pub.dev/packages/flavor_config
+
 ## More...
 
 
