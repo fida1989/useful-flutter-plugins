@@ -72,6 +72,8 @@ https://pub.dev/packages/use_location
 ## State Management / Pattern / Framework
 https://pub.dev/packages/provider
 
+https://pub.dev/packages/flutter_riverpod
+
 https://pub.dev/packages/flutter_bloc
 
 https://pub.dev/packages/flutter_mobx
