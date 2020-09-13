@@ -88,6 +88,8 @@ https://pub.dev/packages/mvc_application
 
 https://pub.dev/packages/momentum
 
+https://pub.dev/packages/states_rebuilder
+
 ## Navigation
 https://pub.dev/packages/get
 
