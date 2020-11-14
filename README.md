@@ -13,6 +13,11 @@ https://pub.dev/packages/sign_in_with_apple
 
 https://pub.dev/packages/flutter_login_facebook
 
+## Icon/Splash Generator
+https://pub.dev/packages/flutter_launcher_icons
+
+https://pub.dev/packages/flutter_native_splash
+
 ## Network
 https://pub.dev/packages/http
 
