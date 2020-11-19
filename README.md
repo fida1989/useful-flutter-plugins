@@ -52,6 +52,8 @@ https://pub.dev/packages/circular_profile_avatar
 
 https://pub.dev/packages/flutter_text_drawable
 
+https://pub.dev/packages/simple_image_crop
+
 ## Persistence
 https://pub.dev/packages/shared_preferences
 
